@@ -3,10 +3,8 @@
 </script>
 
 <template>
-about
+    change about page
 </template>
 
 <style scoped lang='scss'>
-
-
 </style>
